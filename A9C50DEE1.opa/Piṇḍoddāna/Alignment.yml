@@ -1,0 +1,23 @@
+segment_sources:
+  PCAFBA14D:
+    type: origin_type
+    relation: translation
+    language: sa
+  PDF0D19BE:
+    type: origin_type
+    relation: translation
+    language: bo
+  PE1442FD8:
+    type: origin_type
+    relation: translation
+    language: zh
+  P43A1C92D:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  eb137902c7824c8892de9683b67de0b5:
+    PCAFBA14D: None
+    PDF0D19BE: 6e9b51e72a434aacbf5ff059cb86363a
+    PE1442FD8: d4c2ebd801254794a9dc9db4ef7f950c
+    P43A1C92D: b4bd963735ab4bbca5db87f9890becd2
